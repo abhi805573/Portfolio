@@ -47,16 +47,16 @@ const Footer = () => {
 
           {/* Social Media Links */}
           <div className="flex space-x-6 my-4 md:my-0">
-            <a
+            {/* <a
               href="https://facebook.com/"
               target="_blank"
               rel="noreferrer"
               className="text-gray-400 hover:text-blue-500 transition"
             >
               <FaFacebook />
-            </a>
+            </a> */}
             <a
-              href="https://twitter.com/"
+              href="https://x.com/Abhi_k26"
               target="_blank"
               rel="noreferrer"
               className="text-gray-400 hover:text-sky-400 transition"
@@ -64,7 +64,7 @@ const Footer = () => {
               <FaTwitter />
             </a>
             <a
-              href="https://linkedin.com/"
+              href="https://www.linkedin.com/in/abhijeet-kambale-5a0132257/"
               target="_blank"
               rel="noreferrer"
               className="text-gray-400 hover:text-blue-400 transition"
@@ -72,7 +72,7 @@ const Footer = () => {
               <FaLinkedin />
             </a>
             <a
-              href="https://github.com/"
+              href="https://github.com/abhi805573 "
               target="_blank"
               rel="noreferrer"
               className="text-gray-400 hover:text-green-400 transition"
