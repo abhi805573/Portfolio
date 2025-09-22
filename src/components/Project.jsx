@@ -6,7 +6,7 @@ const projects = [
     name: "Sign Language-Converted Into text",
     description:
       "Developed a real-time application that converts sign language gestures into text using computer vision and deep learning for improved accessibility..",
-    technologies: "Stack: MERN (Python , Tensorflow ))",
+    technologies: "Stack: MERN (Python , Tensorflow, Open Cv ,Libraries ))",
     github: "https://github.com/YouafKhan1",
   },
   {
@@ -14,7 +14,7 @@ const projects = [
     name: "Rayat Kutumb kalyan Yojana",
     description:
       "Built a web-based platform for managing and streamlining applications under the Rayata Kutumb Kalyan Yojana, enabling digital access and efficient record handling.",
-    technologies: "Stack: MERN (MongoDB, Express, React, Node.js)",
+    technologies: "Stack: MERN (MYSQL, Express, React,js, Node.js)",
     github: "https://github.com/YouafKhan1",
   },
   {
@@ -22,7 +22,7 @@ const projects = [
     name: "Intern-Link",
     description:
       "Developed an internship and placement portal (InternLink) with role-based access for students, companies, and admins, enabling efficient applications, postings, and management.",
-    technologies: "Stack: MERN (MongoDB, Express, React, Node.js)",
+    technologies: "Stack: MERN (MYSQL ,React-js, SpringBoot ,Tailwind css)",
     github: "https://github.com/YouafKhan1",
   },
 ];

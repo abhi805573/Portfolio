@@ -11,10 +11,10 @@ const Navbar = () => {
 
         {/* Desktop Menu */}
         <div className="hidden md:flex space-x-8">
-          {/* <a href="#home" className="hover:text-gray-400 transition">Home</a> */}
           <a href="#about" className="hover:text-gray-400 transition">About Me</a>
           <a href="#project" className="hover:text-gray-400 transition">Projects</a>
           <a href="#contact" className="hover:text-gray-400 transition">Contact</a>
+          <a href="#skills" className="hover:text-gray-400 transition">Tech Stack</a>
         </div>
 
         {/* Desktop Button */}
@@ -42,6 +42,7 @@ const Navbar = () => {
           <a href="#about" className="block hover:text-yellow-400">About Me</a>
           <a href="#project" className="block hover:text-yellow-400">Projects</a>
           <a href="#contact" className="block hover:text-yellow-400">Contact</a>
+          <a href="#skills" className="block hover:text-yellow-400">Tech Stack</a>
           <a
             href="#contact"
             className="mt-4 block w-40 mx-auto bg-gradient-to-r from-green-400 to-blue-500 text-black font-semibold px-5 py-2 rounded-full text-center"

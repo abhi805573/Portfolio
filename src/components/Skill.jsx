@@ -2,25 +2,29 @@ import React from "react";
 
 const Skills = () => {
   const techStack = [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "React JS",
-    "Flutter",
-    "Node JS",
-    "Tailwind CSS",
-    "Bootstrap",
-    "MySQL",
-    "MongoDB",
-    "Java",
+    "java",
+    "OOP's",
     "Advanced Java",
-    "Spring Boot",
+    "Springboot",
     "Hibernate",
     "JDBC",
-    "GIt",
-    "GitHub",
+    "Flutter",
+    "Firebase",
+    "Javascript",
+    "React",
+    "Node.js",
+    "MOngoDB",
+    "Python",
+    "Tensorflow",
+    "Open CV",
+    "HTML",
+    "CSS",
+    "Tailwind",
+    "Git",
+    "GIthub",
     "Postmen",
     "DSA",
+    "Problem Solving"
     
     
   ];

@@ -9,9 +9,9 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row md:space-x-12 items-center mb-4">
           {/* Brand Info */}
           <div className="flex-1 mb-4 md:mb-0 text-center md:text-left">
-            <h3 className="text-2xl font-bold mb-2">Yousaf</h3>
+            <h3 className="text-2xl font-bold mb-2">Abhijeet</h3>
             <p className="text-gray-400">
-              Full-Stack Developer based in the USA, specializing in web and
+              Full-Stack Developer , specializing in web and
               software development.
             </p>
           </div>
@@ -21,7 +21,7 @@ const Footer = () => {
             <form className="flex items-center justify-center">
               <input
                 type="email"
-                placeholder="Your email"
+                placeholder="abhijeetkambale548@gmail.com"
                 className="w-full p-2 rounded-l-lg bg-gray-800 border border-gray-600 
                 focus:outline-none focus:border-green-400"
               />
@@ -42,7 +42,7 @@ const Footer = () => {
           justify-between items-center"
         >
           <p className="text-gray-400 text-center md:text-left mb-4 md:mb-0">
-            &copy; {new Date().getFullYear()} Yousaf. All rights reserved.
+            &copy; {new Date().getFullYear()} Abhijeet. All rights reserved.
           </p>
 
           {/* Social Media Links */}

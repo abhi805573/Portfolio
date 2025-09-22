@@ -10,10 +10,7 @@ const About = () => {
         <div className="max-w-3xl mx-auto text-center">
           {/* About Text */}
           <p className="text-lg mb-8 leading-relaxed">
-            I am a passionate full-stack developer with a focus on building
-            modern and responsive web applications. With a strong foundation
-            in both frontend and backend technologies, I strive to create
-            seamless and efficient user experiences.
+            I’m a passionate Computer Engineering student skilled in building full-stack and AI-powered applications. I enjoy solving real-world problems through code—whether it’s designing responsive web and mobile interfaces or tackling complex challenges using data structures and algorithms. I work with tools like React, Flutter, Firebase, Python, and ML libraries such as Scikit-learn and OpenCV.
           </p>
 
           {/* Skills Section */}
